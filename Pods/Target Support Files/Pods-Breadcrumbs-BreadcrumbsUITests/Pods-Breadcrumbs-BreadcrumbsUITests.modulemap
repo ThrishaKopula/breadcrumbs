@@ -1,0 +1,6 @@
+framework module Pods_Breadcrumbs_BreadcrumbsUITests {
+  umbrella header "Pods-Breadcrumbs-BreadcrumbsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
